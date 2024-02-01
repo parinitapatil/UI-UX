@@ -1,11 +1,13 @@
-# UI/UX Daily Challenges
+# <p align="center" > UI/UX Daily Challenges</p>
+
+<p align="center">
+  <img src="https://github.com/parinitapatil/UI-UX/assets/119065651/f4589ada-1a59-4170-b755-8aa1dd586091" alt="Illustrations, Poster Festivals, Editorial Illustrations, Art, and Art Concepts image inspiration on Designspiration" width="400">
+</p>
 
 Welcome to the UI/UX Daily Challenges repository! This repository is dedicated to providing daily UI challenges and exploring UX principles. Whether you're a beginner or an experienced designer, these challenges are designed to help you sharpen your skills, experiment with new ideas, and stay up-to-date with industry trends, in the file i have provided links of figma file form their you can directly access the designs.
 
+
 ## Getting Started
-
-
-![download (2)](https://github.com/parinitapatil/UI-UX/assets/119065651/f4589ada-1a59-4170-b755-8aa1dd586091)
 
 To get started with the challenges, follow these steps:
 
@@ -33,13 +35,9 @@ If you'd like to contribute a UI challenge or suggest improvements, please follo
 
 In addition to daily challenges, we'll also explore various UX principles through discussions, articles, and practical examples. Stay tuned for updates and resources related to UX design!
 
-## Code of Conduct
+## Connect with Me
 
-Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) before participating in this community. We strive to maintain a welcoming and inclusive environment for all members.
-
-## Connect with Us
-
-Have questions, suggestions, or just want to connect with fellow designers? Feel free to reach out to us through [email](mailto:example@example.com) or join our [Discord server](#).
+Have questions, suggestions, or just want to connect with fellow designers? Feel free to reach out to us through [email](parinitaopnsrc@gmail.com).
 
 Happy designing!
 
